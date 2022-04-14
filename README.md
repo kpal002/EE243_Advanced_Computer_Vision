@@ -8,7 +8,7 @@ I am taking graduate Computer Vision course during Spring'22. This repository wi
 1. Edge detection \
   a. Laplacian filter\
   b. Canny edge detector\
-  c. Hough transform\
+  c. Hough transform
 
 
 
