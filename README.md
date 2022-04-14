@@ -5,10 +5,10 @@ I am taking graduate Computer Vision course during Spring'22. This repository wi
 
 # Contents
 
-1. Edge detection
-  a. Laplacian filter
-  b. Canny edge detector
-  c. Hough transform
+1. Edge detection \
+  a. Laplacian filter\
+  b. Canny edge detector\
+  c. Hough transform\
 
 
 
