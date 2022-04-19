@@ -9,6 +9,8 @@ I am taking graduate Computer Vision course during Spring'22. This repository wi
   a. Laplacian filter\
   b. Canny edge detector\
   c. Hough transform
+  
+2. Fourier transform and basis images.
 
 
 
