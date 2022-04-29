@@ -11,10 +11,10 @@ I am taking graduate Computer Vision course during Spring'22. This repository wi
   c. Hough transform
   
 2. Fourier transform and basis images.
-3. Shi-Tomasi corner detector with the following features
-  a. Sobel operator to obtain the gradients.
-  b. Window size of 5 X 5 
-  c. Suppress points which are not local maxima within a 5 × 5 window.
+3. Shi-Tomasi corner detector with the following features\
+  a. Sobel operator to obtain the gradients.\
+  b. Window size of 5 X 5 \
+  c. Suppress points which are not local maxima within a 5 × 5 window.\
   
 4. Feature extraction using CNN.
 
