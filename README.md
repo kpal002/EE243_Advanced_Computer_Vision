@@ -17,6 +17,8 @@ I am taking graduate Computer Vision course during Spring'22. This repository wi
   c. Suppress points which are not local maxima within a 5 × 5 window.\
   
 4. Feature extraction using CNN.
-
+5. Image reconstruction using PCA annalysis.
+6. Normalized cuts for image segmentation.
+7. Expectation-Maximization algorithm for mixture of Gaussian model based on color features for image segmentation.
 
 # In progress
