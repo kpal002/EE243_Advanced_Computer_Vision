@@ -26,6 +26,6 @@ I am taking graduate Computer Vision course during Spring'22. This repository wi
   c. The sum of difference image is then used by the getDetections.m function to obtain the detections. This function should segment the blobs which are highlighted in the sum of difference image and return the bounding box details [topleft x,topleft y,width,height] of the segmented blobs. \
   d. The features are extracted from the bounding box regions using the HoG features implemented in getFeatures.m function. \
   e. All the above steps are repeated for the next frame. Then, the getMatches.m code is used to obtain the correspondences between the detected regions in the two frames. \
-Detailed code can be found here [Link](https://github.com/username/repoName/somePathTo/myExampleCode)
+Detailed code can be found here [Link](https://github.com/kpal002/EE243_Advanced_Computer_Vision/tree/main/Data%20Association%20tracking)
 
 # In progress
